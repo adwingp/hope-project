@@ -1,96 +1,76 @@
 
     <!-- footer start -->
-    <footer class="footer">
-        <div class="footer_top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-md-6 col-lg-4">
+    <div class="project_area">
+        <div class="container">
+            <div class="row">
+                 <div class="col-xl-4 col-md-6 col-lg-4" style="text-align: center; margin-top: 5px;">
                         <div class="footer_widget">
-                            <div class="footer_logo">
-                                <a href="#">
-                                    <img src="public/img/footer_logo.png" alt="">
-                                </a>
-                            </div>
                             <p>
-                                Firmament morning sixth subdue darkness
-                                creeping gathered divide.
+                                <h4 style="color: white">Follow Us On</h4>
                             </p>
-                            <div class="socail_links">
+                            <div style="margin-top: 13%;">
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i class="ti-facebook"></i>
+                                            <img width="35px" class="ti-facebook" src="public/img/social-media/twitter.svg"></img>
                                         </a>
-                                    </li>
-                                    <li>
                                         <a href="#">
-                                            <i class="ti-twitter-alt"></i>
+                                            <img style="margin-left: 10px;" width="35px" class="ti-facebook" src="public/img/social-media/linkedin.svg"></img>
                                         </a>
-                                    </li>
-                                    <li>
                                         <a href="#">
-                                            <i class="fa fa-instagram"></i>
+                                            <img style="margin-left: 10px;" width="35px" class="ti-facebook" src="public/img/social-media/instagram.svg"></img>
+                                        </a>
+                                        <a href="#">
+                                            <img style="margin-left: 10px;" width="35px" class="ti-facebook" src="public/img/social-media/fb.svg"></img>
+                                        </a>
+                                        <a href="#">
+                                            <img style="margin-left: 10px;" width="35px" class="ti-facebook" src="public/img/social-media/bing.svg"></img>
+                                        </a>
+                                        <a href="#">
+                                            <img style="margin-left: 10px;" width="35px" class="ti-facebook" src="public/img/social-media/google-plus.svg"></img>
                                         </a>
                                     </li>
+                                    
                                 </ul>
                             </div>
+                            
 
                         </div>
+                        
                     </div>
-                    <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-3">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul>
-                                <li><a href="#">Design</a></li>
-                                <li><a href="#">Development</a></li>
-                                <li><a href="#">Marketing</a></li>
-                                <li><a href="#">Consulting</a></li>
-                                <li><a href="#">Finance</a></li>
-                            </ul>
-
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-md-6 col-lg-2">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Useful Links
-                            </h3>
-                            <ul>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#"> Contact</a></li>
-                                <li><a href="#"> Free quote</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-md-6 col-lg-3">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Address
-                            </h3>
-                            <ul>
-                                <li>200, D-block, Green lane USA</li>
-                                <li>+10 367 467 8934</li>
-                                <li><a href="#"> docmed@contact.com</a></li>
-                            </ul>
-                        </div>
+                <div class="col-xl-4 col-md-6 col-lg-4 footer-more">
+                    <div class="project_info text-center">
+                        <h4>Do you Have any Project?</h4>
+                        <p>Nam libero tempore, cum soluta nobis est eligendi optio <br>
+                            cumque nihil impedit quo minus.</p>
+                        <a href="contact-us" class="boxed-btn3-white">Contact Us</a>
                     </div>
                 </div>
+                 <div class="col-xl-4 col-md-6 col-lg-4 footer-more">
+                        <div class="footer_widget">
+                            <h4 class="footer_title" style="color: white;   margin-bottom: 24px;">I - EON PRIVATE LIMITED </h4>
+                                 <p class="footer_p">Trivandrum, Kerala</p>
+                                 <p class="footer_p">+10 367 467 8934</p>
+                                 <p class="footer_p">i-eon@gmail.com </p>
+                            </ul>
+                        </div>
+                    </div>
             </div>
         </div>
+    </div>
+    <footer class="footer">
         <div class="copy-right_text">
             <div class="container">
                 <div class="footer_border"></div>
                 <div class="row">
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
+                            <a href="#" style="    float: left;"> <img width: 100px; src="public/img/footer_logo.png" alt=""> </a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             Copyright &copy;
                             <script>document.write(new Date().getFullYear());</script> All rights reserved | This
-                            template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a
-                                href="https://colorlib.com" target="_blank">Colorlib</a>
+                            Website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a
+                                href="http://www.i-eon.com" target="_blank">I-Eon</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>

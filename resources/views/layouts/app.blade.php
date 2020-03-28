@@ -4,7 +4,7 @@
     <meta charset="utf-8">    
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>busicol</title>
+    <title>I-Eon</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -30,7 +30,7 @@
       body {
             /* background-image: url("paper.gif"); */
             /* background-image: url('public/img/background.png'); */
-            background: #3d8a6352;
+            background: #c0d7d9b8;
             }
 
             .panel {
@@ -40,9 +40,13 @@
                     transform: perspective(600px) rotateY(16deg);
             }
 
-            .panel_mob {
+            
+
+            @media only screen and (max-width: 600px)  {
+                 .panel_mob {
                     transform: perspective(600px) rotateY(0deg) !important; 
                     margin-top: 10px !important;
+                }          
             }
 </style>    
 </head>
@@ -82,5 +86,21 @@
     <script src="public/js/mail-script.js"></script>
 
     <script src="public/js/main.js"></script>
+
+    <script>
+        $('#datepicker').datepicker({
+            iconsLibrary: 'fontawesome',
+            icons: {
+                rightIcon: '<span class="fa fa-caret-down"></span>'
+            }
+        });
+        $('#datepicker2').datepicker({
+            iconsLibrary: 'fontawesome',
+            icons: {
+                rightIcon: '<span class="fa fa-caret-down"></span>'
+            }
+
+        });
+    </script>
 </body>
 </html>

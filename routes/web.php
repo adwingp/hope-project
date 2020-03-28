@@ -18,3 +18,14 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/about-us', 'StaticController@aboutindex');
+Route::get('/services', 'StaticController@servicesindex');
+Route::get('/gallery', 'StaticController@galleryindex');
+Route::get('/contact-us', 'StaticController@contactindex');
+Route::get('/life-at-i-eon', 'StaticController@servicesindex');
+Route::get('/news', 'StaticController@servicesindex');
+Route::get('/awards', 'StaticController@servicesindex');
+Route::get('/blog', 'StaticController@servicesindex');
+Route::get('/our-team', 'StaticController@servicesindex');
+Route::get('/careers', 'StaticController@servicesindex');
+Route::get('/products', 'StaticController@servicesindex');

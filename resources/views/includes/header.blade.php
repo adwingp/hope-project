@@ -1,4 +1,3 @@
-
     <!-- header-start -->
     <header>
         <div class="header-area ">
@@ -33,35 +32,36 @@
                 <div class="container">
                     <div class="header_bottom_border">
                         <div class="row align-items-center">
-                            <div class="col-xl-3 col-lg-2">
+                            <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
                                     <a href="index.html">
                                         <img src="public/img/logo.png" alt="">
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-7">
-                                <div class="main-menu  d-none d-lg-block">
+                            <div class="col-xl-7 col-lg-7">
+                                <div class="main-menu  d-none d-lg-block newwidth">
                                     <nav>
                                         <ul id="navigation">
-                                            <li><a class="active" href="index.html">home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="service.html">Services</a></li>
-                                            <li><a href="gallery.html">Gallery</a></li>
-                                            <!-- <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                                            <li><a class="active" href="/">Home</a></li>
+                                            <li><a  href="products">Products</a></li>
+                                              <li><a href="#">What We Do ? <i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
-                                                    <li><a href="blog.html">blog</a></li>
-                                                    <li><a href="single-blog.html">single-blog</a></li>
+                                                    <li><a href="about-us">About-Us</a></li>
+                                                    <li><a href="life-at-i-eon">Life At I -Eon</a></li>
                                                 </ul>
-                                            </li> -->
-                                            <!-- <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                            </li> 
+                                             <li><a href="#">Media <i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
-                                                    <li><a href="elements.html">elements</a></li>
-                                                    <li><a href="Portfolio.html">Portfolio</a></li>
-                                                    <li><a href="portfolio_details.html">Portfolio details</a></li>
+                                                    <li><a href="gallery">Gallery</a></li>
+                                                    <li><a href="news">News</a></li>
+                                                    <li><a href="awards">Awards</a></li>
+                                                    <li><a href="blog">Blog</a></li>
                                                 </ul>
-                                            </li> -->
-                                            <li><a href="contact.html">Contact</a></li>
+                                            </li>
+                                            <li><a href="our-team">Team</a></li>
+                                            <li><a href="careers">Careers</a></li>
+                                            <li><a href="contact-us">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
